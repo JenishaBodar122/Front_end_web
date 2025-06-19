@@ -1,1 +1,1 @@
-Created using HTML, CSS, javascript with including features like light/dark mode, responsiveness, loader, validation, pop-ups, carousel, proper navbar and many more.
+Webpage is created by using  HTML, CSS , javascript with including features like Navigation, light and dark mode, hero section, feature section, card section, carousel section , contact , pop-up modal, loader overlay, footer section , button & effects, animation , responsive design.
